@@ -34,10 +34,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-### 📈 Contribution Graph
+### 📈 Contribution
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Strahinja-dev25&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/39d353/Strahinja-dev25">
+    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/40c463/Strahinja-dev25">
+    <img width="100%" src="https://ghchart.rshah.org/40c463/Strahinja-dev25" alt="Contribution graph" />
+  </picture>
 </p>
 
 ### 📊 GitHub Stats
@@ -121,82 +125,29 @@
 
 <br/>
 
---- Quote Section
-<style>
-  .quote-container {
-    background-color: #121419; /* Tamna pozadina kao na slici */
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 30px;
-    border-radius: 10px;
-    max-width: 650px;
-    color: #ffffff;
-  }
-  .quote-header {
-    font-weight: bold;
-    font-size: 1.1em;
-    margin-bottom: 20px;
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .quote-box {
-    background-color: #1a1b26; /* Unutrašnji tamniji okvir */
-    border: 1px solid #282a36;
-    border-radius: 8px;
-    padding: 25px 30px;
-    margin-bottom: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  .quote-text {
-    color: #2ac3de; /* Tirkizno plava boja teksta */
-    font-style: italic;
-    font-size: 1.15em;
-    line-height: 1.6;
-    margin: 0;
-  }
-  .button-container {
-    text-align: center;
-  }
-  .new-quote-btn {
-    background-color: transparent;
-    color: #a9b1d6;
-    border: 1px solid #3b4261;
-    padding: 8px 16px;
-    border-radius: 20px;
-    cursor: pointer;
-    font-size: 0.9em;
-    display: inline-flex;
-    align-items: center;
-    gap: 6px;
-    transition: all 0.2s ease;
-  }
-  .new-quote-btn:hover {
-    background-color: #282a36;
-    color: #ffffff;
-  }
-</style>
-
-<div class="quote-container">
-  <div class="quote-header">
+<div style="background-color: #121419; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 0px; border-radius: 10px; max-width: 650px; color: #ffffff;">
+  <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 20px; display: flex; align-items: center; gap: 8px;">
     <span>💭</span> Dev Quote
   </div>
   
-  <div class="quote-box">
-    <p class="quote-text">
-      "Progress is not a straight line.<br>
-      There will be days when you think you're a genius and days when you think you're a fool—<br>
-      both are lies—so forget the opinions and just keep moving forward."
-    </p>
-  </div>
-  
-  <div class="button-container">
-    <button class="new-quote-btn">
-      <span>↺</span> New quote
-    </button>
+  <div align="center">
+    <div style="display: inline-block; background-color: #1a1b26; border: 1px solid #282a36; border-radius: 8px; padding: 25px 30px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); width: 85%; text-align: left;">
+      <p style="color: #2ac3de; font-style: italic; font-size: 1.15em; line-height: 1.6; margin: 0;">
+        "Progress is not a straight line.<br>
+        There will be days when you think you're a genius and days when you think you're a fool -
+        both are lies - so forget the opinions and just keep moving forward."
+      </p>
+      <br>
+      <p style="color: #2ac3de; font-style: italic; font-size: 1.15em; line-height: 1.6; display: flex; justify-content: flex-end;">
+        - Strahinja Kovacevic
+      </p>
+    </div>
   </div>
 </div>
+<br>
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10B981,50:22D3EE,100:7C3AED&height=120&section=footer" width="100%" />
 
 <p align="center"><i>⭐️ From <a href="https://github.com/Strahinja-dev25">Strahinja-dev25</a></i></p>
