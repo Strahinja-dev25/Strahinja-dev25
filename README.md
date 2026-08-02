@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Strahinja-dev25">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=1050&text=Hello!%20I'm%20Strahinja%20Kovacevic" alt="Hello! I&#39;m Strahinja Kovacevic" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=1050&text=Hello!%20I'm%20Strahinja%20Kovacevic" alt="Hi there I&#39;m Strahinja Kovacevic" />
   </a>
 </p>
 
