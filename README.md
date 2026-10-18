@@ -38,9 +38,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/39d353/Strahinja-dev25">
-    <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/40c463/Strahinja-dev25">
-    <img width="100%" src="https://ghchart.rshah.org/40c463/Strahinja-dev25" alt="Contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Strahinja-dev25/Strahinja-dev25/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Strahinja-dev25/Strahinja-dev25/output/github-contribution-grid-snake.svg">
+    <img width="100%" alt="Contribution snake animation" src="https://raw.githubusercontent.com/Strahinja-dev25/Strahinja-dev25/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
